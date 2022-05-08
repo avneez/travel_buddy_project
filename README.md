@@ -1,4 +1,4 @@
-# TRAVEL BUUDY WEB-APP (https://travel-buddy-avneez.netlify.app/)
+# TRAVEL BUDDY WEB-APP (https://travel-buddy-avneez.netlify.app/)
 
 TechStack: ReactJS, Google Maps API and Rapid API.
 A complete travel companion web app which shows restaurants, hotels, and attractive places around you.
